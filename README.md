@@ -3,14 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm Hoàng Tân, a CSE student. He has no idea what he is doing. 🧑🏻‍💻</div>  
+### <div align="center">Hoàng Tân, a CSE student. He has no idea what he is doing. 🧑🏻‍💻</div>  
   
 
-- 🌱 I’m currently learning Data Science and DevOps  
+- 🌱 Learn to become a DevOps  
   
-
-- ⚡ Fun fact: I really love mechanical keyboards 😀  
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
