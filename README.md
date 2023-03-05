@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Hoàng Tân, a CSE student at HUTECH 🧑🏻‍💻</div>  
+### <div align="center">I'm Hoàng Tân, a CSE student. He has no idea what he is doing. 🧑🏻‍💻</div>  
   
 
 - 🌱 I’m currently learning Data Science and DevOps  
