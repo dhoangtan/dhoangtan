@@ -6,7 +6,7 @@
 ### <div align="center">Hoàng Tân, a CSE student. He has no idea what he is doing. 🧑🏻‍💻</div>  
   
 
-- 🌱 Learn to become a DevOps  
+- 🌱 Learn to become a DevOps Engineer
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
